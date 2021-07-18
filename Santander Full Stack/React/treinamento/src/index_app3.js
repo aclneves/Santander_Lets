@@ -1,13 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Formulario from './components/Formulario';
+import App from './components/App';
+import App3 from './components/App3.js';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Formulario>
-      
-    </Formulario>
+    <App3>
+
+    </App3>
  
 
   </React.StrictMode>,
